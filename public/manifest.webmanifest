@@ -1,0 +1,14 @@
+{
+  "name": "TechJoint",
+  "short_name": "TechJoint",
+  "theme_color": "#1E90FF",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+  ]
+}
