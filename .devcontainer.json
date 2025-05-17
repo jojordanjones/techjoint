@@ -1,0 +1,9 @@
+{
+  "image": "node:20",
+  "features": {
+    "ghcr.io/devcontainers/features/pnpm:1": {
+      "version": "latest"
+    }
+  },
+  "forwardPorts": [5173]
+}
