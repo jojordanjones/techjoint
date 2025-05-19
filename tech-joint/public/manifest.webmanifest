@@ -1,0 +1,13 @@
+{
+  "name": "TechJoint",
+  "short_name": "TechJoint",
+  "start_url": "/tech-joint/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+  ]
+}
